@@ -1,4 +1,4 @@
-simplify_dart is a drat port of the Simplify.js JavaScript polyline simplification library by Vladimir Agafonkin.
+simplify_dart is a dart port of the Simplify.js JavaScript polyline simplification library by Vladimir Agafonkin.
 
 See: https://github.com/mourner/simplify-js
 
