@@ -77,6 +77,6 @@ void main() {
 }
 
 class Point {
-  double x;
-  double y;
+  double? x;
+  double? y;
 }
